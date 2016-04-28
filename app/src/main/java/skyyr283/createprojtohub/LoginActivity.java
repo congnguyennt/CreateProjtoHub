@@ -33,6 +33,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static android.Manifest.permission.READ_CONTACTS;
+
+// b2 change here
 // new update affter branch
 
 /**
