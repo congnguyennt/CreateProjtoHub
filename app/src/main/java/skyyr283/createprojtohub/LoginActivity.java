@@ -1,5 +1,6 @@
 package skyyr283.createprojtohub;
 
+
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
@@ -40,6 +41,9 @@ import static android.Manifest.permission.READ_CONTACTS;
  * A login screen that offers login via email/password.
  *
  */
+
+// master change here
+
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
 
     /**
